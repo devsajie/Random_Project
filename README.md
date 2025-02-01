@@ -1,3 +1,7 @@
+## Disclaimer
+
+This project is not made for my personal use; it was created purely for fun after seeing an inspiring TikTok video. Enjoy the playful experience, and feel free to share it with others!
+
 # Valentine Ask Out
 
 This is a fun web project that asks a user to be your Valentine using interactive buttons. The project includes HTML, CSS, and JavaScript files to create an engaging experience.
