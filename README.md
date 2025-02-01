@@ -6,6 +6,14 @@ This project has no use in my personal life; it was created purely for fun after
 
 This is a fun web project that asks a user to be your Valentine using interactive buttons. The project includes HTML, CSS, and JavaScript files to create an engaging experience.
 
+## How to Use
+Click the link = https://devsajie.github.io/Random_Project/
+
+## OR ##
+1. Clone the repository to your local machine.
+2. Open `index.html` in your preferred web browser.
+3. Interact with the buttons to see the fun animations and responses.
+
 ## Files
 
 - `index.html`: The main HTML file containing the structure of the web page.
@@ -14,14 +22,6 @@ This is a fun web project that asks a user to be your Valentine using interactiv
 - `yes.html`: A separate HTML file for the "YES" button response.
 - `yesstyle.css`: The CSS file for styling the "YES" page.
 - `yesscript.js`: The JavaScript file for handling interactions on the "YES" page including confetti falling.
-
-## How to Use
-Click the link = https://devsajie.github.io/Random_Project/
-
-## OR ##
-1. Clone the repository to your local machine.
-2. Open `index.html` in your preferred web browser.
-3. Interact with the buttons to see the fun animations and responses.
 
 ## Features
 
