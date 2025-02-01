@@ -1,6 +1,6 @@
 ## Disclaimer
 
-This project is not made for my personal use; it was created purely for fun after seeing an inspiring TikTok video. Enjoy the playful experience, and feel free to share it with others!
+This project has no use in my personal life; it was created purely for fun after seeing a TikTok video. Enjoy the playful experience, and feel free to share it with others!
 
 # Valentine Ask Out
 
