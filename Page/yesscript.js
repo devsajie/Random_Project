@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", () => {
-    const images = ['/images/con1.png', '/images/con3.png', '/images/con2.png', '/images/con3.png'];
+    const images = ['../images/con1.png', '../images/con3.png', '../images/con2.png', '../images/con3.png'];
     let currentImageIndex = 0;
 
     function createConfetti() {
