@@ -65,6 +65,6 @@ document.addEventListener("DOMContentLoaded", () => {
     const noButton = document.getElementById("no-button");
 
     yesButton.addEventListener("click", () => {
-        window.location.href = "/Page/yes.html"; // Redirect to yes.html
+        window.location.href = "Page/yes.html"; // Redirect to yes.html
     });
 });
