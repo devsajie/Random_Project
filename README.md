@@ -16,7 +16,7 @@ This is a fun web project that asks a user to be your Valentine using interactiv
 - `yesscript.js`: The JavaScript file for handling interactions on the "YES" page including confetti falling.
 
 ## How to Use
-Click the link on the description of this Repo
+Click the link = https://devsajie.github.io/Random_Project/
 
 ## OR ##
 1. Clone the repository to your local machine.
