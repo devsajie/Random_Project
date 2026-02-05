@@ -9,7 +9,7 @@ This is a fun web project that asks a user to be your Valentine using interactiv
 ## How to Use
  Click This Link: https://devsajie.github.io/Random_Project/
 
- # OR
+ ## OR
 
 1. Clone the repository to your local machine.
 2. Install the necessary dependencies:
