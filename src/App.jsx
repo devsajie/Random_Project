@@ -5,7 +5,7 @@ import YesPage from './pages/YesPage';
 
 function App() {
     return (
-        <Router>
+        <Router basename="/Random_Project/">
             <Routes>
                 <Route path="/" element={<Home />} />
                 <Route path="/yes" element={<YesPage />} />
