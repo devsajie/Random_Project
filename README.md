@@ -2,7 +2,7 @@
 
 This project has no use in my personal life; it was created purely for fun after seeing a TikTok video. Enjoy the playful experience, and feel free to share it with others!
 
-There is a Newer Version in branch 2.0 Check it Out
+## There is a Newer Version in branch 2.0 Check it Out
 
 # Valentine Ask Out
 
