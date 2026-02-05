@@ -5,6 +5,7 @@ import './YesPage.css';
 import con1 from '../images/con1.png';
 import con2 from '../images/con2.png';
 import con3 from '../images/con3.png';
+import coupleImage from '../images/image7.gif';
 
 const YesPage = () => {
     const [email, setEmail] = useState('');
@@ -94,7 +95,7 @@ const YesPage = () => {
         <div className="yes-container">
             <div className="content-card">
                 <div id="yipee">Yipee! <span style={{ fontFamily: 'initial' }}>🥳</span></div>
-                <img id="couple" src="/src/images/image7.gif" alt="Cute couple" />
+                <img id="couple" src={coupleImage} alt="Cute couple" />
 
                 <p className="subtitle">I'm so happy! <span style={{ fontFamily: 'initial' }}>💖</span></p>
 
