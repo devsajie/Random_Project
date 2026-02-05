@@ -7,6 +7,9 @@ This project has no use in my personal life; it was created purely for fun after
 This is a fun web project that asks a user to be your Valentine using interactive buttons. It has been reimagined using React and Vite for a modern experience, complete with email notifications!
 
 ## How to Use
+ Click This Link: https://devsajie.github.io/Random_Project/
+
+ ##OR##
 
 1. Clone the repository to your local machine.
 2. Install the necessary dependencies:
