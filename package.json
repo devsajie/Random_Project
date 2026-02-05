@@ -1,6 +1,7 @@
 {
   "name": "ask-out-react",
   "private": true,
+  "homepage": "https://devsajie.github.io/Random_Project",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
