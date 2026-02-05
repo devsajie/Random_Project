@@ -9,9 +9,7 @@ There is a Newer Version in branch 2.0 Check it Out
 This is a fun web project that asks a user to be your Valentine using interactive buttons. The project includes HTML, CSS, and JavaScript files to create an engaging experience.
 
 ## How to Use
-Click the link = https://devsajie.github.io/Random_Project/
 
-## OR ##
 1. Clone the repository to your local machine.
 2. Open `index.html` in your preferred web browser.
 3. Interact with the buttons to see the fun animations and responses.
